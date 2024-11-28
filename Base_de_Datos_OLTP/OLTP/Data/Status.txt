@@ -1,0 +1,6 @@
+id_status|name_status|Description_status
+100|Vig|Vigente
+200|Susp|Suspendido
+300|Fin|Finalizado
+400|Ven|Vencido
+500|Fin_Ven|Finalizado Vencido

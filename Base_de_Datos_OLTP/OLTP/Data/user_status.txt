@@ -1,0 +1,5 @@
+id_user_status|status_name|status_description
+1|Activo|El usuario está activo
+2|Inactivo|El usuario está en vacaciones
+3|Vacaciones|El usuario no está trabajando
+4|Suspendido|El usuario está suspendido

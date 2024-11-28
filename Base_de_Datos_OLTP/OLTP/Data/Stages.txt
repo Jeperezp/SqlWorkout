@@ -1,0 +1,10 @@
+id_stage|name_stage|Description
+1|Recibido|Recepcion del Documento
+2|En Analisis|Lectura del Caso
+3|Solicitud Resolucion|Solicitud de Resolucion al equipo Juridico
+4|Requerimiento a la Entidad|Requerimiento hacia la entidad financiera
+5|En Simulacion de Credito|Simulacion Matematica del Credito
+6|En Elaboracion Dictamen|Elaboracion del Peritazgos
+7|En Revision|Revison del supervisor
+8|En Firma|En Firma del Documento
+9|Enviado|Enviado al Juzgado

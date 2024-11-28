@@ -1,0 +1,3 @@
+id_status_stage|status_stage_name|status_stage_description
+1|En curso|Actividad Iniciada
+2|Terminada|Actividad Finalizada

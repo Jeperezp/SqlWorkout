@@ -1,0 +1,5 @@
+id_category|Name_category|Category_description
+1|Hipotecario|Ley de vivienda
+2|Consumo|Credito Consumo
+3|Leasing|Ley de vivienda
+4|Libranza|Credito Libranza
