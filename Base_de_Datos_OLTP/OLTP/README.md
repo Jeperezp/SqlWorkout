@@ -116,7 +116,7 @@ Crear una base de datos OLTP involucra varias etapas, desde el diseño inicial h
 
 A continuación, se muestra un diagrama de ejemplo para ilustrar la estructura de la base de datos OLTP.
 
-![Diagrama de la base de datos OLTP](C:\SFC-JP\SQL\Base_de_Datos_OLTP\OLTP\Untitled.svg)
+![Diagrama de la base de datos OLTP](https://github.com/Jeperezp/SqlWorkout/blob/main/Base_de_Datos_OLTP/OLTP/Untitled.svg)
 
 
 ## 🚀 Buenas Prácticas en OLTP
