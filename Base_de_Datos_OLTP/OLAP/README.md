@@ -138,7 +138,7 @@ El flujo de trabajo de este proyecto incluye:
 
 El proyecto requiere de las siguientes dependencias:
 
-- Python 3.x
+- Python 3.12.2
 - `pandas`
 - `sqlalchemy`
 - `pymysql`
