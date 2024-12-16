@@ -106,7 +106,8 @@ El diagrama conceptual de la base de datos OLAP muestra las tablas de hechos y l
 
 - **FactAudiences** se encuentra en el centro del diagrama, y las tablas de dimensiones como **DimUsuario**, **DimCiudad**, **DimDepartamento**, **DimCategoria**, y **DimEstado** están alrededor de ella.
   
-![Diagrama de la base de datos OLTP](C:\SFC-JP\SQL\Base_de_Datos_OLTP\OLAP\Diagrama_OLAP.PNG)
+![Diagrama de la base de datos OLTP](https://github.com/Jeperezp/SqlWorkout/blob/main/Base_de_Datos_OLTP/OLAP/Diagrama_OLAP.PNG)
+
 
 ## 📝 Consideraciones Finales
 
