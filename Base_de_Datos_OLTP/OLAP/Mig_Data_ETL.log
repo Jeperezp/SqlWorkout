@@ -1,0 +1,117 @@
+2024-12-16 11:21:08,233 - INFO - Datos Cargados
+2024-12-16 11:21:08,243 - INFO - Datos Cargados
+2024-12-16 11:21:08,253 - INFO - Datos Cargados
+2024-12-16 11:21:08,263 - INFO - Datos Cargados
+2024-12-16 11:21:08,271 - INFO - Datos Cargados
+2024-12-16 11:21:08,281 - INFO - Datos Cargados
+2024-12-16 11:21:08,344 - INFO - No se encontraron duplicados en la columna "id_city".
+2024-12-16 11:21:08,353 - INFO - No se encontraron duplicados en la columna "id_category".
+2024-12-16 11:21:08,353 - INFO - No se encontraron duplicados en la columna "category_name".
+2024-12-16 11:21:08,353 - INFO - No se encontraron duplicados en la columna "id_department".
+2024-12-16 11:21:08,353 - INFO - No se encontraron duplicados en la columna "Number_document".
+2024-12-16 11:21:08,353 - INFO - No se encontraron duplicados en la columna "id_user".
+2024-12-16 11:21:08,363 - INFO - No se encontraron duplicados en la columna "status_name".
+2024-12-16 11:21:08,363 - INFO - No se encontraron duplicados en la columna "id_status".
+2024-12-16 11:21:08,369 - INFO - No se encontraron duplicados en la columna "id_process".
+2024-12-16 11:21:08,391 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_city, city_name, id_department
+2024-12-16 11:21:08,395 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_category, category_name, category_description
+2024-12-16 11:21:08,399 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_department, department_name
+2024-12-16 11:21:08,402 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_user, Number_document, First_Name, last_Name, email, phone_number
+2024-12-16 11:21:08,402 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_status, status_name, status_description
+2024-12-16 11:21:08,402 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_process, date_entry, internal_id, id_user, id_category, id_status, id_user_rol, id_department, id_city
+2024-12-16 11:21:08,443 - INFO - Todas las claves foráneas en id_status están presentes en id_status de    id_status status_name  status_description
+0        100         Vig           Vigente\r
+1        200        Susp        Suspendido\r
+2        300         Fin        Finalizado\r
+3        400         Ven           Vencido\r
+4        500     Fin_Ven  Finalizado Vencido. Verificación exitosa.
+2024-12-16 11:21:08,443 - INFO - Todas las claves foráneas en id_category están presentes en id_category de    id_category category_name category_description
+0            1   Hipotecario    Ley de vivienda\r
+1            2       Consumo    Credito Consumo\r
+2            3       Leasing    Ley de vivienda\r
+3            4      Libranza     Credito Libranza. Verificación exitosa.
+2024-12-16 11:21:08,474 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_city, city_name, id_department
+2024-12-16 11:21:08,479 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_category, category_name, category_description
+2024-12-16 11:21:08,482 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_department, department_name
+2024-12-16 11:21:08,486 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_user, Number_document, First_Name, last_Name, email, phone_number
+2024-12-16 11:21:08,490 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_status, status_name, status_description
+2024-12-16 11:21:08,490 - INFO - No se encontraron valores faltantes en las columnas especificadas: id_process, date_entry, internal_id, id_user, id_category, id_status, id_user_rol, id_department, id_city
+2024-12-16 11:21:09,217 - INFO - Datos insertados correctamente en la tabla 'DimUsuario'.
+2024-12-16 11:21:09,221 - INFO - Datos insertados correctamente en la tabla 'DimDepartamento'.
+2024-12-16 11:21:09,630 - INFO - Datos insertados correctamente en la tabla 'DimCiudad'.
+2024-12-16 11:21:09,645 - INFO - Datos insertados correctamente en la tabla 'DimCategoria'.
+2024-12-16 11:21:09,664 - INFO - Datos insertados correctamente en la tabla 'DimEstado'.
+2024-12-16 11:21:09,707 - INFO - Datos insertados correctamente en la tabla 'DimProcess'.
+2024-12-16 11:21:10,256 - INFO - Datos Cargados
+2024-12-16 11:21:10,279 - INFO - Todas las claves foráneas en id_department están presentes en id_department de     id_department                                    department_name
+0               5                                        Antioquia\r
+1               8                                        Atlántico\r
+2              11                                      Bogotá D.C.\r
+3              13                                          Bolívar\r
+4              15                                           Boyacá\r
+5              17                                           Caldas\r
+6              18                                          Caquetá\r
+7              19                                            Cauca\r
+8              20                                            Cesar\r
+9              23                                          Córdoba\r
+10             25                                     Cundinamarca\r
+11             27                                            Chocó\r
+12             41                                            Huila\r
+13             44                                       La Guajira\r
+14             47                                        Magdalena\r
+15             50                                             Meta\r
+16             52                                           Nariño\r
+17             54                               Norte de Santander\r
+18             63                                          Quindío\r
+19             66                                        Risaralda\r
+20             68                                        Santander\r
+21             70                                            Sucre\r
+22             73                                           Tolima\r
+23             76                                  Valle del Cauca\r
+24             81                                           Arauca\r
+25             85                                         Casanare\r
+26             86                                         Putumayo\r
+27             88  Archipiélago de San Andrés, Providencia y Sant...
+28             91                                         Amazonas\r
+29             94                                          Guainía\r
+30             95                                         Guaviare\r
+31             97                                           Vaupés\r
+32             99                                          Vichada\r. Verificación exitosa.
+2024-12-16 11:21:10,288 - INFO - Todas las claves foráneas en id_city están presentes en id_city de       id_city        city_name  id_department
+0          54         La Unión              5
+1         133  Hatillo de Loba             13
+2         136        Río Viejo             13
+3         155           Oicatá             15
+4         156          Ráquira             15
+...       ...              ...            ...
+1112    97889         Yavaraté             97
+1113    99001   Puerto Carreño             99
+1114    99524     La Primavera             99
+1115    99624    Santa Rosalía             99
+1116    99773         Cumaribo             99
+
+[1117 rows x 3 columns]. Verificación exitosa.
+2024-12-16 11:21:10,291 - INFO - Todas las claves foráneas en id_user están presentes en id_user de    id_user First_Name    last_Name                               email  \
+0        1       Syed        Abbas                     non@outlook.com   
+1        2  Catherine         Abel        dignissim.tempor@hotmail.com   
+2        3        Kim  Abercrombie               duis.risus@icloud.com   
+3        4      Hazem     Abolrous      faucibus.orci.luctus@yahoo.org   
+4        5        Sam     Abolrous  lacus.quisque.imperdiet@icloud.com   
+5        6   Humberto      Acevedo              mattis.velit@yahoo.com   
+6        7    Gustavo       Achong                  elit.a@hotmail.org   
+7        8      Pilar     Ackerman            sapien.gravida@yahoo.org   
+
+       phone_number  
+0  (610) 822-3228\r  
+1  1-517-683-1323\r  
+2  (905) 618-8731\r  
+3  (691) 192-7357\r  
+4  (893) 479-4676\r  
+5  (571) 846-1724\r  
+6  1-619-651-5455\r  
+7    (243) 765-2174  . Verificación exitosa.
+2024-12-16 11:21:10,473 - ERROR - Error al insertar los datos en la tabla 'FactAudiences': (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'Name'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'Name'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+[SQL: INSERT INTO [FactAudiences] (id_process, id_category, id_status, id_department, id_city, id_user, stage_name, description, start_date, end_date, [Duracion_Etapa], status_stage_name, status_stage_description, [Name]) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ... 6427 characters truncated ...  ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (2022118662, 4, 500, 11, 11001, 1, 'Enviado', 'Enviado al Juzgado\r', datetime.datetime(2022, 7, 26, 0, 0), datetime.datetime(2022, 7, 27, 0, 0), 1.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2022112391, 2, 500, 11, 11001, 4, 'Enviado', 'Enviado al Juzgado\r', datetime.datetime(2022, 7, 18, 0, 0), datetime.datetime(2022, 7, 19, 0, 0), 1.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2022106489, 2, 500, 5, 5088, 1, 'Enviado', 'Enviado al Juzgado\r', datetime.datetime(2022, 7, 7, 0, 0), datetime.datetime(2022, 7, 8, 0, 0), 1.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2022089733, 3, 500, 5, 5079, 7, 'Enviado', 'Enviado al Juzgado\r' ... 1986 parameters truncated ... 'En Elaboracion Dictamen', 'Elaboracion del Peritazgos\r', datetime.datetime(2022, 2, 23, 0, 0), datetime.datetime(2022, 3, 2, 0, 0), 7.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2022008144, 2, 300, 17, 17001, 1, 'En Elaboracion Dictamen', 'Elaboracion del Peritazgos\r', datetime.datetime(2022, 2, 10, 0, 0), datetime.datetime(2022, 2, 17, 0, 0), 7.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2021268814, 3, 300, 25, 25126, 7, 'En Elaboracion Dictamen', 'Elaboracion del Peritazgos\r', datetime.datetime(2022, 1, 10, 0, 0), datetime.datetime(2022, 1, 17, 0, 0), 7.0, 'Terminada', 'Actividad Finalizada', 'Supervisor', 2021268811, 1, 300, 52, 52001, 6, 'En Elaboracion Dictamen', 'Elaboracion del Peritazgos\r', datetime.datetime(2022, 1, 7, 0, 0), datetime.datetime(2022, 1, 14, 0, 0), 7.0, 'Terminada', 'Actividad Finalizada', 'Supervisor')]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-12-16 11:26:03,881 - INFO - Datos insertados correctamente en la tabla 'FactAudiences'.
