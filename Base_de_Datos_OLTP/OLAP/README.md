@@ -180,8 +180,9 @@ Esta función se conecta a la base de datos MySQL, ejecuta una consulta SQL y de
 #### Ejemplo de uso:
 ```python
 df = connect_db("SELECT * FROM Cities")
-insert_data_to_sql(df: pd.DataFrame, table_name: str, if_exists: str = 'append')
 ```
+### `insert_data_to_sql(df: pd.DataFrame, table_name: str, if_exists: str = 'append')`
+
 Esta función inserta los datos de un `DataFrame` en una tabla de SQL Server.
 #### Parámetros:
 - `df` (pd.DataFrame): El `DataFrame` con los datos a insertar.
