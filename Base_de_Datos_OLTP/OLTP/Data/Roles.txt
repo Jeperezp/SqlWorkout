@@ -1,3 +1,0 @@
-id_rol|Name|Descripcion
-1|Supervisor|Coordinador del Equipo
-2|Perito|Perito
